@@ -5,7 +5,8 @@ function isPalindrome(str){
         if(str[i] != str[tamanhoPalavra - 1 - i]) {
             return false;
         }  
-        } return true;}
+        } return true;
+    }
 
 
 function arrayMaxMin(arr){
